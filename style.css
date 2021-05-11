@@ -144,7 +144,7 @@ p {
 
 /*showcase style*/
 #showcase {
-    background: url('./showcase.jpg') no-repeat center center/cover;
+    background: url('showcase.jpg') no-repeat center center/cover;
     height: 600px;
 }
 
@@ -172,7 +172,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url('./photo-home.jpg') no-repeat center center/cover;
+    background: url('photo-home.jpg') no-repeat center center/cover;
     min-height: 100%;
     opacity:0.8;
 }
@@ -228,7 +228,7 @@ p {
 /*testimonials*/
 #testimonials {
     height: 100%;
-    background: url('./photo-reviws.jpg') no-repeat center center/cover;
+    background: url('photo-reviws.jpg') no-repeat center center/cover;
     padding-top: 100px;
 }
 
